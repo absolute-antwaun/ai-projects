@@ -2,7 +2,7 @@ import torch
 from torch import nn, optim
 from torchvision import datasets, transforms
 from torch.utils.data import DataLoader
-from model import SimpleNN
+from models import SimpleNN
 from utils import plot_sample
 
 # Set device
