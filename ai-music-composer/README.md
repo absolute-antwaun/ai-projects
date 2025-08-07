@@ -47,7 +47,6 @@ ai-music-composer/
 
 ## ⚙️ How to Train the Model
 
-#```bash
 # 1. Install requirements
 pip install -r requirements.txt
 
