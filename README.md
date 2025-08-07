@@ -1,6 +1,7 @@
-![Build Status](https://github.com/absolute-antwaun/ai-projects/actions/workflows/python.yml/badge.svg)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Build Status](https://github.com/absolute-antwaun/ai-projects/actions/workflows/python.yml/badge.svg?branch=main)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
+
 
 # 🧠 AI Projects by Absolute-Antwaun
 

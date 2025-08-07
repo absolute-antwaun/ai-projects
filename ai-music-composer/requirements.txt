@@ -4,3 +4,4 @@ pretty_midi
 numpy
 pytest
 pylint
+flake8
