@@ -48,12 +48,12 @@ ai-music-composer/
 ## ⚙️ How to Train the Model
 
 1. Install requirements
-- pip install -r requirements.txt
+ - pip install -r requirements.txt
 
 2. Add MIDI files to /data/midi
 
 3. Train the model
-- python scripts/train.py
+ - python scripts/train.py
 
 ---
 
