@@ -1,3 +1,7 @@
+![Build Status](https://github.com/absolute-antwaun/ai-projects/actions/workflows/python.yml/badge.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
+
 # 🧠 AI Projects by Absolute-Antwaun
 
 Welcome to my personal collection of AI experiments, models, and tools. This repository is a living lab where I explore machine learning, deep learning, and intelligent systems—from prototypes to fully built solutions.
