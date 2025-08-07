@@ -64,12 +64,16 @@ Custom dataset builder
 GitHub Actions + linting
 Web interface for live generation
 
+---
+
 ## 📜 License
 
 MIT License – use this for any creative or educational purpose ✨
+
+---
 
 ## 🧙‍♂️ Inspiration
 
 Inspired by sci-fi soundscapes in Blade Runner, Annihilation, and Arrival. This is a sandbox for dark ambient AI creativity.
 
-
+---
