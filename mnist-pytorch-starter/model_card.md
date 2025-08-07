@@ -11,7 +11,8 @@ For any model you want to document:
 
 ## 📌 Intended Use
 
-This model is designed to classify images from the CIFAR-10 dataset into one of 10 categories. It is meant for educational purposes and early experimentation with CNNs.
+This model is designed to classify images from the CIFAR-10 dataset into one of 10 categories.
+It is meant for educational purposes and early experimentation with CNNs.
 
 ## 🛠️ Architecture
 
