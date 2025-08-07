@@ -18,7 +18,7 @@ images, labels = next(iter(train_loader))
 plot_sample(images, labels)
 
 # Initialize model
-model = SimpleNN().to(device)
+model = Net().to(device)
 criterion = nn.CrossEntropyLoss()
 optimizer = optim.Adam(model.parameters(), lr=0.001)
 
