@@ -1,4 +1,4 @@
-![Build Status](https://github.com/absolute-antwaun/ai-projects/actions/workflows/python.yml/badge.svg?branch=main)
+![Build Status](https://github.com/absolute-antwaun/ai-projects/actions/workflows/python.yml/badge.svg?branch=main&event=push)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Stars](https://img.shields.io/github/stars/absolute-antwaun/ai-music-composer?style=social)
 ![Last Commit](https://img.shields.io/github/last-commit/absolute-antwaun/ai-music-composer)

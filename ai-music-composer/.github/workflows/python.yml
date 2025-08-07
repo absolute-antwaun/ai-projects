@@ -2,9 +2,11 @@ name: Python Tests & Lint
 
 on:
   push:
-    branches: [ main ]
+    paths:
+      - 'ai-music-composer/**'
   pull_request:
-    branches: [ main ]
+    paths:
+      - 'ai-music-composer/**'
 
 jobs:
   test-and-lint:
