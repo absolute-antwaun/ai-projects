@@ -13,16 +13,16 @@ Welcome to my personal collection of AI experiments, models, and tools. This rep
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| `project-name` | Short description of what it does or explores | 🧪 In Progress |
+| `project-name` | Short description of what it does or explores | 🧪 In-Progress |
 | `another-project` | Quick summary of model, technique, or tool used | ✅ Complete / 🔧 WIP |
 | `image-classifier` | CNN trained on CIFAR-10 dataset | ✅ Complete |
-| `chatbot-rnn` | A basic chatbot using RNN with PyTorch | 🧪 In Progress |
-| Handwriting to Emojis | Convert handwritten digits or letters into emojis using an ML classifier | 🧪 In Progress |
-| Neural Style Transfer | Make your own "AI-painted" art using deep learning | 🧪 In Progress |
-| Voice Emotion Classifier | Feed in your voice, get back a predicted mood | 🧪 In Progress |
-| AI Guessing Game: “Who’s That Pokémon?” | Show a blurry image of a Pokémon, let the user guess, then reveal it! | 🧪 In Progress |
-| Chatbot with a Personality | Build a chatbot that talks like a pirate, Shakespeare, or anime character | 🧪 In Progress |
-| AI Music Composer | Generate melodies using a neural net trained on MIDI files | 🧪 In Progress |
+| `chatbot-rnn` | A basic chatbot using RNN with PyTorch | 🧪 In-Progress |
+| Handwriting to Emojis | Convert handwritten digits or letters into emojis using an ML classifier | 🧪 In-Progress |
+| Neural Style Transfer | Make your own "AI-painted" art using deep learning | 🧪 In-Progress |
+| Voice Emotion Classifier | Feed in your voice, get back a predicted mood | 🧪 In-Progress |
+| AI Guessing Game: “Who’s That Pokémon?” | Show a blurry image of a Pokémon, let the user guess, then reveal it! | 🔧 WIP |
+| Chatbot with a Personality | Build a chatbot that talks like a pirate, Shakespeare, or anime character | 🧪 In-Progress |
+| AI Music Composer | Generate melodies using a neural net trained on MIDI files | 🔧 WIP |
 
 
 > More projects coming soon!
@@ -32,15 +32,15 @@ Welcome to my personal collection of AI experiments, models, and tools. This rep
 ## 📦 Tech Stack & Tools
 
 - Python 3.x
+- Anaconda3.x
 - NumPy, Pandas, Scikit-learn
-- PyTorch / TensorFlow (when needed)
+- PyTorch / TensorFlow (Core ML frameworks)
 - Jupyter Notebooks
-- Matplotlib / Seaborn for visualizations
-- GitHub Actions (CI/CD for future automation)
-- PyTorch / TensorFlow	(Core ML frameworks
+- Requests
+- Matplotlib / Seaborn / PIL (pillow) for visualizations
+- GitHub Actions (CI/CD pipeline for automations)
 - OpenCV	(Webcam, real-time interaction)
 - Pyttsx3 / gTTS	(Text-to-speech for fun output)
-- Matplotlib / PIL	(Visuals)
 - Streamlit	(Quick web apps for AI demos)
 - Pygame	(Turn your models into AI-powered games)
 
