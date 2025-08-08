@@ -1,7 +1,3 @@
-torch
-mido
-pretty_midi
 numpy
-pytest
-pylint
-flake8
+pillow
+requests
